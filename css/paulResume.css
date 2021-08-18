@@ -1,0 +1,50 @@
+body{
+    font-family: monospace;
+}
+#img{
+    
+    margin-right: 15%;
+}
+@media (max-width: 650px){
+    #img{
+        margin-right:0px;
+    }
+}
+#h1{
+    font-family: monospace;
+    font-weight: 14px;
+}
+#hero{
+    background-color: teal;
+}
+#btn{
+    color: teal;
+}
+.ul{
+    list-style: none;
+}
+#con{
+    background-color: teal;
+    border-width: 50%;
+    color:white;
+}
+#tit{
+    color: #dff5ad;
+}
+.fq{
+    color: rgb(167, 169, 170);
+}
+.bs{
+    color:rgb(208, 210, 211);
+}
+#foot{
+    text-align: center;
+    background-color:rgb(34, 33, 33);
+    font-family: monospace;
+    font-size: small;
+    padding-top: 7px;
+    color: rgb(167, 169, 170);
+}
+#pf{
+    color: black;
+}
