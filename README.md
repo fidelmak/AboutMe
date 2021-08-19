@@ -4,7 +4,7 @@ THIS IS HNG TASK 2 PROJECT
 This contain all the stylesheet used
 
 # img folder 
-Thi contain all the images used
+This contain all the images used
 
 # Js folder
 This contain the javascript for the compulsory task to print name in choosen language
@@ -47,6 +47,12 @@ here is the codepen link to view the website
 https://codepen.io/fidelmak/pen/MWmMPpb
 
 # link to Print name task
+
+
+https://codepen.io/fidelmak/pen/oNWraoM
+
+
+# thanks @internship.zuri.team
 
 
 
