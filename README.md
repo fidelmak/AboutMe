@@ -1,5 +1,5 @@
-# HNG-TASK-2
-THIS IS HNG TASK 2 PROJECT
+# About me 
+This website give a brief info about me
 # css folder
 This contain all the stylesheet used
 
@@ -52,8 +52,7 @@ https://codepen.io/fidelmak/pen/MWmMPpb
 https://codepen.io/fidelmak/pen/oNWraoM
 
 
-# thanks @internship.zuri.team
-
+# thanks
 
 
 
